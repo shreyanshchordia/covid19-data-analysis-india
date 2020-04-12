@@ -22,7 +22,7 @@ The following [colab notebook](https://colab.research.google.com/gist/shreyanshc
 
 ## **Data**
 
-Downloaded from Kaggle. You can download the datasets from the folder `data`.
+Downloaded from Kaggle. You can download the datasets from the folder [COVID-19 INDIA](https://github.com/shreyanshchordia/covid19-data-analysis-india/tree/master/COVID-19%20INDIA).
 
 ## **Datasets**
 
